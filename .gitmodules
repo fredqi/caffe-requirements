@@ -13,3 +13,6 @@
 [submodule "boost"]
 	path = boost
 	url = git@github.com:boostorg/boost.git
+[submodule "snappy"]
+	path = snappy
+	url = git@github.com:google/snappy.git
