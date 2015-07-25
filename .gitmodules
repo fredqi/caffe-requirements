@@ -16,3 +16,6 @@
 [submodule "snappy"]
 	path = snappy
 	url = git@github.com:google/snappy.git
+[submodule "opencv"]
+	path = opencv
+	url = git@github.com:Itseez/opencv.git
