@@ -10,3 +10,6 @@
 [submodule "glog"]
 	path = glog
 	url = git@github.com:google/glog.git
+[submodule "boost"]
+	path = boost
+	url = git@github.com:boostorg/boost.git
